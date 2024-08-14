@@ -42,7 +42,7 @@ designed to streamline workspace management. It enables
 employees to reserve desks in advance, promoting flexible
 and efficient use of office space"
               ghLink="https://github.com/bharathbo/BookMyDesk"
-              demoLink="https://bookmydesk.netlify.app/"
+              demoLink="https://bookmidesk.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
