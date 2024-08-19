@@ -13,8 +13,6 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Sharp.
             <br />
-            I have completed Integrated MCA in VTU MYSURU 
-            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
